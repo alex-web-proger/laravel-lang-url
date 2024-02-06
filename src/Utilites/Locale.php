@@ -2,6 +2,8 @@
 
 namespace Alexlen\LangUrl\Utilites;
 
+use Illuminate\Support\Facades\Route;
+
 class Locale
 {
     public static function getLocaleName($locale)

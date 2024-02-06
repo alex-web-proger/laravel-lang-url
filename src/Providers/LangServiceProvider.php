@@ -19,8 +19,7 @@ class LangServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-       Locale::setLocaleFromUrl();
-
-        $this->loadRoutesFrom(__DIR__.'/../routes/web.php');
+        Locale::setLocaleFromUrl();
+        $this->loadRoutesFrom(__DIR__ . '/../routes/web.php');
     }
 }
