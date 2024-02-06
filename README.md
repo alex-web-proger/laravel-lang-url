@@ -14,14 +14,10 @@
 
 Пример переключения:
 
-<code>
-
+<pre>
     site-name.com/set-locale/en   // Переключиться на английский язык 
-    
     site-name.com/set-locale/ru   // Переключиться на русский язык
-     
     site-name.com/set-locale/ua   // Переключиться на украинский язык 
-    
-</code> 
+</pre> 
 
 
