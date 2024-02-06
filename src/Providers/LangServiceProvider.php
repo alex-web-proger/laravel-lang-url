@@ -4,6 +4,7 @@ namespace Alexlen\LangUrl\Providers;
 
 use Alexlen\LangUrl\Utilites\Locale;
 use Illuminate\Support\ServiceProvider;
+use SuperImage\Image;
 
 class LangServiceProvider extends ServiceProvider
 {
